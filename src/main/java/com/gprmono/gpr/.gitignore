@@ -1,0 +1,7 @@
+# Ignorar arquivos de configuração do banco de dados
+application.properties
+application.yml
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
